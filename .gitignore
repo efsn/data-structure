@@ -1,0 +1,28 @@
+# Eclipse
+bin/
+.settings/
+.project
+.classpath
+.externalToolBuilders
+
+# IDEA
+.idea/
+out/
+*.iml
+*.ipr
+*.iws
+
+# Maven
+target/
+.mvn/
+
+# Gradle
+.gradle/
+build/
+
+# Others
+logs/
+test/
+test-output/
+
+
